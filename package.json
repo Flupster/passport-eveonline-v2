@@ -2,6 +2,11 @@
   "name": "passport-eveonline-v2",
   "version": "1.0.0",
   "description": "EveOnline PassportJS Strategy",
+  "url": "https://github.com/Flupster/passport-eveonline-v2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Flupster/passport-eveonline-v2.git"
+  },
   "main": "index.js",
   "keywords": [
     "eveonline",
