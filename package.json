@@ -17,7 +17,7 @@
   "author": "Flupster",
   "license": "MIT",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "passport-oauth2": "^1.5.0"
   }
 }
